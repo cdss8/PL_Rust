@@ -1,0 +1,6 @@
+Documentary for realizing this program
+
+https://www.dcode.fr/intersection-point 
+https://habr.com/ru/articles/267037/
+https://www.cyberforum.ru/python/thread1744620.html
+
